@@ -8,8 +8,7 @@ const Header = () => {
                     <i id="menu" className="material-icons">menu</i>
                     <img
                         src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c"
-                        alt=""
-                    />
+                        alt=""/>
                 </div>
 
                 <div className="header__search">
